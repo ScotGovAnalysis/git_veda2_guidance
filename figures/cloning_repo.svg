@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -25,31 +25,77 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="0.72337262"
-     inkscape:cx="111.28428"
-     inkscape:cy="559.18622"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:cx="378.09006"
+     inkscape:cy="194.22908"
+     inkscape:window-width="1280"
+     inkscape:window-height="961"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g203517">
+    <inkscape:grid
+       type="xygrid"
+       id="grid25270" />
+  </sodipodi:namedview>
   <defs
      id="defs2">
     <marker
        style="overflow:visible;"
-       id="Arrow2Lend"
+       id="marker159472"
        refX="0.0"
        refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path159470" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path25345" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow2Lend"
        inkscape:isstock="true">
       <path
-         transform="scale(1.1) rotate(180) translate(1,0)"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
-         style="stroke:context-stroke;fill-rule:evenodd;fill:context-stroke;stroke-width:0.62500000;stroke-linejoin:round;"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
          id="path7691" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path7691-2" />
     </marker>
   </defs>
   <g
@@ -57,63 +103,108 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline">
-    <rect
-       style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.264583"
-       id="rect31"
-       width="73.884232"
-       height="46.086205"
-       x="-149.59729"
-       y="57.059113"
-       ry="14.630542" />
-    <rect
-       style="fill:#0000ff;fill-opacity:0.582996;fill-rule:evenodd;stroke-width:0.264583"
-       id="rect31-9"
-       width="73.884232"
-       height="46.086205"
-       x="-121.79926"
-       y="140.81895"
-       ry="14.630542" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-202.633"
-       y="49.378078"
-       id="text1707"><tspan
-         sodipodi:role="line"
-         id="tspan1705"
-         style="stroke-width:0.264583"
-         x="-202.633"
-         y="49.378078">Remote</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-204.82758"
-       y="147.76845"
-       id="text4021"><tspan
-         sodipodi:role="line"
-         id="tspan4019"
-         style="stroke-width:0.264583"
-         x="-204.82758"
-         y="147.76845">Developer </tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.372774px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
-       d="m -122.44638,102.19056 c 27.429038,37.71068 28.76704,39.69546 28.76704,39.69546"
-       id="path7668" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="33.692425"
-       y="155.47549"
-       id="text31972"
-       transform="rotate(55.756604)"><tspan
-         sodipodi:role="line"
-         id="tspan31970"
-         style="font-size:4.23333px;stroke-width:0.264583"
-         x="33.692425"
-         y="155.47549">git clone</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.26458299;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.26458299,0.26458299;stroke-dashoffset:0"
-       d="m -210.6798,122.53079 c 479.88178,0.73152 479.88178,0.73152 479.88178,0.73152"
-       id="path983" />
+    <g
+       id="g203517"
+       transform="matrix(0.72969465,0,0,0.72969465,-0.09886784,0.78849322)">
+      <rect
+         style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.0864482"
+         id="rect31"
+         width="23.967554"
+         height="15.166546"
+         x="31.905277"
+         y="43.226421"
+         ry="4.8147769" />
+      <rect
+         style="fill:#0000ff;fill-opacity:0.582996;fill-rule:evenodd;stroke-width:0.0864482"
+         id="rect31-9"
+         width="23.967554"
+         height="15.166546"
+         x="63.003429"
+         y="84.05233"
+         ry="4.8147769" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.236785px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+         d="M 56.364975,55.631719 C 72.395406,81.666428 73.177377,83.036681 73.177377,83.036681"
+         id="path7668" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.44712px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0611782"
+         x="6.0349207"
+         y="87.017555"
+         id="text5750"
+         transform="scale(0.90238346,1.1081763)"><tspan
+           sodipodi:role="line"
+           id="tspan5748"
+           style="stroke-width:0.0611782"
+           x="6.0349207"
+           y="87.017555" /></text>
+      <path
+         style="fill:none;stroke:#128d88;stroke-width:1.37043625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 0.13549207,71.438339 H 21.689484 348.2263"
+         id="path13558"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="2.5603449"
+         y="8.0467968"
+         id="text14708"><tspan
+           sodipodi:role="line"
+           id="tspan14706"
+           style="font-size:7.05556px;stroke-width:0.264583"
+           x="2.5603449"
+           y="8.0467968">Remote (Github)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="4.0233989"
+         y="79.370689"
+         id="text18424"><tspan
+           sodipodi:role="line"
+           id="tspan18422"
+           style="font-size:7.05556px;stroke-width:0.264583"
+           x="4.0233989"
+           y="79.370689">Bob</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="28.377434"
+         y="92.849564"
+         id="text22004"><tspan
+           sodipodi:role="line"
+           id="tspan22002"
+           style="font-size:3.52778px;stroke-width:0.264583"
+           x="28.377434"
+           y="92.849564">main</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="73.32663"
+         y="-41.328442"
+         id="text17077"
+         transform="rotate(55.572371)"><tspan
+           sodipodi:role="line"
+           style="font-size:3.88056px;stroke-width:0.264583"
+           x="73.32663"
+           y="-41.328442"
+           id="tspan17075" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="77.297844"
+         y="-19.48741"
+         id="text19949"
+         transform="rotate(57.983186)"><tspan
+           sodipodi:role="line"
+           style="font-weight:bold;font-size:3.88056px;stroke-width:0.264583"
+           x="77.297844"
+           y="-19.48741"
+           id="tspan19947">Clone  the remote</tspan><tspan
+           sodipodi:role="line"
+           style="font-weight:normal;font-size:3.88056px;stroke-width:0.264583"
+           x="77.297844"
+           y="-14.636709"
+           id="tspan21799">git clone &lt;remote url&gt;</tspan></text>
+    </g>
   </g>
 </svg>
