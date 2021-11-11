@@ -26,13 +26,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="4.0920135"
-     inkscape:cx="640.02722"
-     inkscape:cy="194.40307"
-     inkscape:window-width="1600"
-     inkscape:window-height="1201"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:zoom="1.4467452"
+     inkscape:cx="377.74446"
+     inkscape:cy="194.57468"
+     inkscape:window-width="1280"
+     inkscape:window-height="961"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="g203517">
     <inkscape:grid
@@ -139,9 +139,10 @@
            x="6.0349207"
            y="87.017555" /></text>
       <path
-         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
-         d="M -0.36576354,68.032018 C 296.26848,68.763546 296.26848,68.763546 296.26848,68.763546"
-         id="path13558" />
+         style="fill:none;stroke:#128d88;stroke-width:1.37043625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 0.13549207,71.438339 H 21.689484 348.2263"
+         id="path13558"
+         sodipodi:nodetypes="ccc" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -152,7 +153,7 @@
            id="tspan14706"
            style="font-size:7.05556px;stroke-width:0.264583"
            x="2.5603449"
-           y="8.0467968">Remote</tspan></text>
+           y="8.0467968">Remote (Github)</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -163,7 +164,7 @@
            id="tspan18422"
            style="font-size:7.05556px;stroke-width:0.264583"
            x="4.0233989"
-           y="79.370689">Developer 1</tspan></text>
+           y="79.370689">Bob</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -447,6 +448,35 @@
            x="250.50626"
            y="31.113577"
            id="tspan195646">Merge branch</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="73.32663"
+         y="-41.328442"
+         id="text17077"
+         transform="rotate(55.572371)"><tspan
+           sodipodi:role="line"
+           style="font-size:3.88056px;stroke-width:0.264583"
+           x="73.32663"
+           y="-41.328442"
+           id="tspan17075" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="77.297844"
+         y="-19.48741"
+         id="text19949"
+         transform="rotate(57.983186)"><tspan
+           sodipodi:role="line"
+           style="font-weight:bold;font-size:3.88056px;stroke-width:0.264583"
+           x="77.297844"
+           y="-19.48741"
+           id="tspan19947">Clone  the remote</tspan><tspan
+           sodipodi:role="line"
+           style="font-weight:normal;font-size:3.88056px;stroke-width:0.264583"
+           x="77.297844"
+           y="-14.636709"
+           id="tspan21799">git clone &lt;remote url&gt;</tspan></text>
     </g>
   </g>
 </svg>
