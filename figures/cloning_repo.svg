@@ -8,7 +8,10 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="01_cloning_repo.svg"
+   sodipodi:docname="cloning_repo.svg"
+   inkscape:export-filename="C:\repos\git_veda2_guidance\figures\01_cloning_repo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,7 +27,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.72337262"
-     inkscape:cx="125.10841"
+     inkscape:cx="111.28428"
      inkscape:cy="559.18622"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
@@ -52,7 +55,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     style="display:inline">
     <rect
        style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.264583"
        id="rect31"
@@ -62,7 +66,7 @@
        y="57.059113"
        ry="14.630542" />
     <rect
-       style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.264583;fill-opacity:0.58299595"
+       style="fill:#0000ff;fill-opacity:0.582996;fill-rule:evenodd;stroke-width:0.264583"
        id="rect31-9"
        width="73.884232"
        height="46.086205"
@@ -109,7 +113,7 @@
          y="155.47549">git clone</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458299;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.26458299,0.26458299;stroke-dashoffset:0"
-       d="m -209.94827,128.74877 c 483.17363,1.82882 483.17363,1.82882 483.17363,1.82882"
-       id="path37163" />
+       d="m -210.6798,122.53079 c 479.88178,0.73152 479.88178,0.73152 479.88178,0.73152"
+       id="path983" />
   </g>
 </svg>
