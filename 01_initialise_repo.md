@@ -1,11 +1,18 @@
-1. Open git bash in the veda model folder
+Alice is working on a TIMES model and will use git version control. The model files are contained in a folder called ``times_model''.
+
+Alice needs to initialise times_model as a git repository, add the model files to the repository, and setup a remote repository on GitHub.
+
+She takes the following steps on a Windows PC:
+
+1. In a file explorer window, navigate to ``times_model/''
+2. Right click and ``Open Git Bash here''
 2. In the terminal type
      ```
      git init
      ```
-3. Create a .gitignore file. This file needs to be saved in the main moldel folder and not have any file type suffix. Under windows, the filetype can be removed by right clicking on the file in windows explorer, selecting rename, and removing the suffix.
+3. Create a .gitignore file. This file needs to be saved in the ``times_model/'' folder and not have any file type suffix. Under windows, the filetype can be removed by right clicking on the file in windows explorer, selecting rename, and removing the suffix.
 
-The text below is the recommended text for a .gitignore to be used in the veda-workflow recommended here, as well as R project-associated files. 
+The text below is the recommended text for a .gitignore to be used in the veda-workflow recommended here. It also ignores R project-associated files in case these are used in the workflow.
 
 ```
 # File,           	Veda Window, 	When updated, 	             Git track\\
@@ -63,6 +70,6 @@ git branch -M main
 git push -u origin main
 ```
 
-After a page refresh, the files should now appear in your GitHub repo.
+After a page refresh, the files should now appear in the GitHub repo.
 
 
