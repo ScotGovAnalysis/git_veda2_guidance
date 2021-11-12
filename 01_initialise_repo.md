@@ -39,7 +39,6 @@ AppData/NavigatorSettings.json
 AppData/Settings.json
 
 #Ignore the results views from repo
-AppData/ResultViews.json
 AppData/ResultViewsDetails.json  
 
 # Uncomment to ignore saved cases.
