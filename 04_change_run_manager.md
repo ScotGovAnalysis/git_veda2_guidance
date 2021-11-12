@@ -28,4 +28,4 @@ git stash
 git stash clear
 ```
 
-5. When the changes are ready to be pushed to the remote, follow the steps to push the branch dev_new_constraint, create a pull request as in 03_change_model_data.
+5. When the changes are ready to be pushed to the remote, follow the steps to push the branch dev_new_constraint, create a pull request as in [03_change_model_data](https://github.com/DataScienceScotland/git_veda2_guidance/blob/main/03_change_model_data.md).
