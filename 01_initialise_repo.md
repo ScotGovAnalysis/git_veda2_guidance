@@ -1,22 +1,23 @@
 # Initialise a TIMES model as a git repo
 
-Alice is working on a TIMES model and will use git version control. The model files are contained in a folder called ``times_model''.
+Alice is working on a TIMES model and will use git version control. The model files are contained in a folder called ``demos_001_git''.
 
-Alice needs to initialise times_model as a git repository, add the model files to the repository, and setup a remote repository on GitHub.
+Alice needs to initialise demos_001_git as a git repository, add the model files to the repository, and setup a remote repository on GitHub.
 
 She takes the following steps on a Windows PC:
 
-1. In a file explorer window, navigate to ``times_model/''
+1. In a file explorer window, navigate to ``demos_001_git/''
 2. Right click and ``Open Git Bash here''
 2. In the terminal type
      ```
      git init
      ```
-3. Create a .gitignore file. This is a text file that can be created in notepad. The file needs to be saved in the ``times_model/'' folder and not have any file type suffix. Under windows, the filetype can be removed by right clicking on the file in windows explorer, selecting rename, and removing the suffix.
+3. Create a .gitignore file. This is a text file that can be created in notepad. The file needs to be saved in the ``demos_001_git/'' folder and not have any file type suffix. Under windows, the filetype can be removed by right clicking on the file in windows explorer, selecting rename, and removing the suffix.
 
-The text below is the recommended text for a .gitignore to be used in the veda-workflow recommended here. It also ignores R project-associated files in case these are used in the workflow.
+The text below is the recommended text for a .gitignore to be used in the veda-workflow recommended here. It also ignores R project-associated files in case these are used in the workflow. The lines beginning with # are comments.
 
 ```
+# Details of Veda files to be included/excluded from repo
 # File,           	Veda Window, 	When updated, 	             Git track\\
 # ==========================================================
 # FrontEndFormFormSettings,	Front,	Front end? When VEDA updated maybe?,	N
@@ -27,7 +28,7 @@ The text below is the recommended text for a .gitignore to be used in the veda-w
 # Settings,		Run manager,	Run solver settings edited,		N
 # Groups, 		Run manager,	Scenario groups edited,			Y
 # ResultsFormSettings, 	Results,	Results window opened,			N
-# ResultViews, 		Results,	When results table opened,		N
+# ResultViews, 		Results,	When results table opened,		Y
 # ResultViewsDetails,	Results,	When results table opened, 		N
 ########################################################
 

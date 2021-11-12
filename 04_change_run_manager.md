@@ -19,7 +19,7 @@ git commit -m “add new scenario group to solve new costraint”
 3. Add the new case to the repo
 ```
 git add AppData/Cases.json
-git commit -m "add new case to run new case
+git commit -m "add new case to run new scenario"
 ```
 
 4. Alice runs the case. This changes the "Edited On" entry of AppData/Cases.json (which Alice sees, by running ```git diff```). Alice does not want to keep these changes in the repo. So she runs 
