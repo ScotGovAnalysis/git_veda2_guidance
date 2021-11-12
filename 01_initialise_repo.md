@@ -64,7 +64,9 @@ git add .
 git commit  -m "Initial commit of all model files"
 ```
 
-6. On GitHub. Create a new repository and set as public/private as approproate. **DO NOT** initialise the repository with any of the options
+6. On GitHub. Create a new repository and set as public/private as approproate. The repository will be imported so **DO NOT** initialise the repository with any of the available options. See image below
+<img title="Initialise GitHub repo" src="/figures/github_initialisation.PNG">
+
 7. In git bash on the local machine, copy and paste the lines from GitHub under the heading **"...or push an existing repository from the command line"**
 ```
 git remote add origin https://github.com/<git_username>/<github_repo_name>.git
