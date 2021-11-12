@@ -29,12 +29,19 @@ git commit -m "update syssettings.xlsx with change of pdef5"
 ```
 git checkout -b temp_syssettings_pdef
 ```
-Bob can checkout the parent branch at any time to make additional changes to the data. When he is finished working on the temporary branch and is happy with the data, he checksout dev_syssettings_pdef and deletes temp_syssettings_pdef.
+Bob runs the model in Veda. This changes several files. The changes are committed to the temporary branch.
+
+```
+git add .
+git commit -m "test runs"
+```
+
+Bob can checkout the parent branch at any time to make additional changes to the data. When he is finished working on the temporary branch and is happy with the data that he has changes, he checksout dev_syssettings_pdef and deletes temp_syssettings_pdef.
 ```
 git checkout dev_syssettings_pdef
 git branch -D temp_syssettings_pdef
 ```
-(The -D is needed for a branch that has not been merged. An option -d can be used for branches that have been merged)
+(The -D is needed to delete a branch that has not been merged. An option -d can be used for branches that have been merged)
 
 5. Push the changes to the remote. Before pushing, make sure that the branch is up to data with origin.
 
@@ -52,7 +59,7 @@ git fetch origin
 git checkout -b dev_syssettings_pdef origin/dev_syssettings_pdef
 git merge main
 ```
-She leaves comments on the pull request page, and either Alice or Bob can push additional commits to the branch
+She leaves comments on the pull request page, and either Alice or Bob can push additional commits to the branch. If there are merge conflicts, GitHub will flag these and it is for Alice and Bob to resolve the issue.
 
 8. When all issues are settled, the branch can be merged. This can be done via the GitHub pull request page, or locally and the main branch pushed
 ```
