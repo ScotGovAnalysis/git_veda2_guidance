@@ -12,7 +12,7 @@ She takes the following steps on a Windows PC:
      ```
      git init
      ```
-3. Create a .gitignore file. This file needs to be saved in the ``times_model/'' folder and not have any file type suffix. Under windows, the filetype can be removed by right clicking on the file in windows explorer, selecting rename, and removing the suffix.
+3. Create a .gitignore file. This is a text file that can be created in notepad. The file needs to be saved in the ``times_model/'' folder and not have any file type suffix. Under windows, the filetype can be removed by right clicking on the file in windows explorer, selecting rename, and removing the suffix.
 
 The text below is the recommended text for a .gitignore to be used in the veda-workflow recommended here. It also ignores R project-associated files in case these are used in the workflow.
 
