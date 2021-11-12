@@ -1,3 +1,5 @@
+# Changing the Veda run manager settings
+
 Alice is working on a run with a new constraint. She changes the run manager settings in her Veda interface. She adds a scenario group and case. For Bob to have access to these run manager settings, she needs to commit the changes to her local repo and push to the remote.
 
 The following procudure is used to do this on a new branch called dev_new_constraint. Alice commmits the changes for the scenario group and case creation using two commits to distinguish the changes in the version history. She then pushes the branch to the remote.
