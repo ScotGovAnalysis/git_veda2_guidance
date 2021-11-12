@@ -52,7 +52,7 @@ AppData/ResultViewsDetails.json
 .Ruserdata
 ```
 
-4. In git bash, add and commit the change
+4. In git bash, add and commit the change. The option `-m "..." ` is used to specify a commit message. If this is omitted, an editor opens where a commit message should be specified. See [here](https://heather.cs.ucdavis.edu/~matloff/UnixAndC/Editors/ViIntro.html) for an introduction to using the editor.
 ```
 git add .gitignore
 git commit -m "initial commit"
