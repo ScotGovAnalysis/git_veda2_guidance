@@ -1,3 +1,5 @@
+# Initialise a TIMES model as a git repo
+
 Alice is working on a TIMES model and will use git version control. The model files are contained in a folder called ``times_model''.
 
 Alice needs to initialise times_model as a git repository, add the model files to the repository, and setup a remote repository on GitHub.
