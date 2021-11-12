@@ -1,3 +1,5 @@
+# Changing the model data
+
 Bob wants to update one (or more) data files in the model. He will do this in his local repo on a separate branch. When he is happy with the changes, he will push the changes to the remote. Alice, can then quality assure the changes. When both of them are happy, they can merge the changes into the main model.
 
 Bob and Alice's workflow is such that the changes to datafiles and Veda interface files are carried out on separate branches. 
