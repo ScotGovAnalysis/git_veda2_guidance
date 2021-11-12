@@ -23,7 +23,7 @@ git checkout -b dev_syssettings_pdef
 3. Update datafile.xlsx, then add and commit the changes in the repo
 ```
 git add syssettings.xlsx
-git commit -m "update syssettings.xlsx with change of pdef5 "
+git commit -m "update syssettings.xlsx with change of pdef5"
 ```
 4. To test the changes in TIMES/Veda, it is recommended to create a new branch that comes off of dev_syssettings. This allows Bob to run Veda as needed without affecting the repository. Their agreed naming convention is that all temporary branches start with the string "temp"
 ```
