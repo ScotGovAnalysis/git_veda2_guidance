@@ -1,3 +1,5 @@
+# Cloning the remote repo to local machine
+
 Bob is working with Alice on the TIMES model. He needs to get a local copy of the model by cloning the remote repository. This local repo will be kept in sync with the remote repo. cal machine. Bob needs to take the following steps:
 
 1.	Log onto GitHub and navigate to the repo. To get the repo URL, click on the green “Code” button, and copy to clipboard.
