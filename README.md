@@ -1,4 +1,4 @@
-# git_veda2_guidance
+# Guidance for using git version control with Veda 2/TIMES
 
 ## Background
 Git is a version control system. The term "repository" or "repo" refers to a working directory which is tracked by git. A git repo can be used collaboratively by means of creating a remote repo, which all contributors have access to.
