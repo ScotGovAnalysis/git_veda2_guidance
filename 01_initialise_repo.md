@@ -23,7 +23,7 @@ The text below is the recommended text for a .gitignore to be used in the veda-w
 # NavigatorSettings,	Navigtor,	When model reloaded,	 		N
 # BrowseFormSettings,	Browse,	     When Browse used,				N
 # MasterFormFormSettings,	Item Details,	When RES opened/navigated,	N
-# Cases,		Run manager,	Cases selected for a run,		N
+# Cases,		Run manager,	Cases selected for a run,		Y
 # Settings,		Run manager,	Run solver settings edited,		N
 # Groups, 		Run manager,	Scenario groups edited,			Y
 # ResultsFormSettings, 	Results,	Results window opened,			N
@@ -39,7 +39,7 @@ AppData/NavigatorSettings.json
 AppData/Settings.json
 
 #Ignore the results views from repo
- 
+AppData/ResultViews.json
 AppData/ResultViewsDetails.json  
 
 # Uncomment to ignore saved cases.
